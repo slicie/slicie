@@ -1,16 +1,19 @@
-### Hi there 👋
+# Slicie - Vertical Scaling Servers
 
-<!--
-**slicie/slicie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains relevant links to [Slicie](https://slicie.com), and will contain the documentation for our public facing API when it is made available.
 
-Here are some ideas to get you started:
+You can find the unique features of Slicie on our site. Here are a few:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. [Vertical Scaling](https://slicie.com/vertical-scaling)
+2. [Instant Backups](https://slicie.com/instant-backups)
+3. [Edge Network](https://slicie.com/edge-network)
+4. [Utility Billing](https://slicie.com/utility)
+
+We support all major Linux distributions, and recommend the following applications:
+
+1. [WordPress](https://slicie.com/wordpress)
+2. [Magento](https://slicie.com/magento)
+3. [cPanel](https://slicie.com/cpanel)
+4. [PrestaShop](https://slicie.com/prestashop)
+5. [Drupal](https://slicie.com/drupal)
+6. [Joomla!](https://slicie.com/joomla)
