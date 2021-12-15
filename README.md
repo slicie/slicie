@@ -33,7 +33,9 @@ Slowdowns for each individual resource are tracked and saved for later viewing.
 Simply upload the tracker's PHP script to your server so that it can be accessed through the web. You can [download the stable release](https://slicie.com/tracker/download) and upload it to your website with an FTP client. Or you can use either of the commands below with SSH.
 
 ```curl "https://slicie.com/tracker/slicie-tracker.php" --output slicie-tracker.php```
+
 or use wget:
+
 ```wget "https://slicie.com/tracker/slicie-tracker.php"```
 
 **After uploading the tracker, access the script in your web browser to configure it.**
