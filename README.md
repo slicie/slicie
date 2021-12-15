@@ -29,6 +29,9 @@ Slowdowns for each individual resource are tracked and saved for later viewing.
 
 ![Storage Usage](https://slicie.com/tracker/image?title=1&metric=disk&view=reliability&labels=1&title=1&end=5465102&start=5464814&token=dc0ff4c7799b0cf9&tracker=d4d0fe8053e5b42e&width=846&tz=America/Phoenix)
 
+## Try a demo
+[Click here](https://slicie.com/tracker/demologin) to try our demo account, with a handful of trackers already set up.
+
 ## Installing the tracker manually
 Simply upload the tracker's PHP script to your server so that it can be accessed through the web. You can [download the stable release](https://slicie.com/tracker/download) and upload it to your website with an FTP client. Or you can use either of the commands below with SSH.
 
