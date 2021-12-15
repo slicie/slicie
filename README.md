@@ -6,6 +6,8 @@ This software tracks platform performance, and _is not_ statistics software like
 
 > [Research shows](https://www.portent.com/blog/analytics/research-site-speed-hurting-everyones-revenue.htm) conversions drop 4.42% every second your site loads. If you have an online business, performance slowdowns can be very costly. This tracker finds bottlenecks in any hosting platform.
 
+https://slicie.com/tracker
+
 ## How it works
  - **The only software** that tracks platform performance
  - CPU Performance, Memory, and Storage
