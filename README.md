@@ -7,12 +7,16 @@ This software tracks platform performance, and _is not_ statistics software like
 > [Research shows](https://www.portent.com/blog/analytics/research-site-speed-hurting-everyones-revenue.htm) conversions drop 4.42% every second your site loads. If you have an online business, performance slowdowns can be very costly. This tracker finds bottlenecks in any hosting platform.
 
 ## How it works
- - Tracking for CPU, Memory, and Storage
- - No performance impact
+ - **The only software** that tracks platform performance
+ - CPU Performance, Memory, and Storage
+ - No performance impact and simple setup in minutes
  - Supports any platform and application
- - Simple setup in minutes
  - Real-time and past, searchable, results
  - Notifications and daily reports
+
+## What it's not
+ - It does not gather usage statistics, like Nagios.
+ - It does not look at your application's performance, like NewRelic.
 
 ## Easy to understand graphs
 Slowdowns for each individual resource are tracked and saved for later viewing.
